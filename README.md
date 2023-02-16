@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ganesh-chandra-rana-6507a5141/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" />
+<a href="https://www.linkedin.com/in/ganesh-chandra-rana-6507a5141/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" />
  </a>
-<a href="https://fb.com/https://www.facebook.com/ganeshcrana12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="https://www.facebook.com/ganeshcrana12/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/perfect_boy_ganesh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="https://www.instagram.com/perfect_boy_ganesh/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ganeshranaa4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="https://www.hackerrank.com/ganeshranaa4" height="50" width="60" /></a>
+<a href="https://www.facebook.com/ganeshcrana12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="https://www.facebook.com/ganeshcrana12/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/perfect_boy_ganesh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="https://www.instagram.com/perfect_boy_ganesh/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ganeshranaa4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="https://www.hackerrank.com/ganeshranaa4" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
