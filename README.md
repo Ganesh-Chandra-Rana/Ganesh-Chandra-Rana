@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Chandra Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="300" title="a title" alt="Alt text" src="https://miro.medium.com/max/1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
+<img align="right" width="300" title="a title" alt="Alt text" src="1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-chandra-rana&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-chandra-rana" /> </p>
 
